@@ -1,0 +1,9 @@
+#header .navbar-main.navbar.is-dark .navbar-brand .navbar-item.logo {
+    width: 147px;
+    height: 147px;
+    background-image: url(https://i.imgur.com/iSsJkT5.png);
+    position: absolute;
+    top: -55px;
+    left: -4px;
+    z-index: 10;
+}
